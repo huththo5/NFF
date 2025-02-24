@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "KAVI-EXE=cQoyHI6T#BPLEuXNEVtPM8pm52BxquuX
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_REACT_STATUS: process.env.AUTO_REACT_STATUS || "false",
 MODE: process.env.MODE || "public",
-ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
